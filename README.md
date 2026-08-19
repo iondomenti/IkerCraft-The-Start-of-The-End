@@ -126,9 +126,9 @@
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.3+neoforge`
 - [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.25.77.2086`
 - [Sophisticated Backpacks Create Integration](https://modrinth.com/project/sophisticated-backpacks-create-integration) `1.21.1-0.1.8.134`
-- [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.4.87.2270`
+- [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.4.88.2283`
 - [Sophisticated Inventory Interactions](https://modrinth.com/project/sophisticated-inventory-interactions) `1.21.1-0.1.13.218`
-- [Sophisticated Storage](https://modrinth.com/project/sophisticated-storage) `1.21.1-1.5.89.2109`
+- [Sophisticated Storage](https://modrinth.com/project/sophisticated-storage) `1.21.1-1.5.90.2116`
 - [Sophisticated Storage Create Integration](https://modrinth.com/project/sophisticated-storage-create-integration) `1.21.1-0.1.21.209`
 - [Tempad](https://modrinth.com/project/tempad) `3.0.4`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.4.4`

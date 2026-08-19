@@ -482,7 +482,7 @@
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "ebdb1096470c98db7b8e23aa35d2de322c4a4f6c"
+      "sha1": "0b48f39362e17571e63578e2bad4acd1d327c966"
     },
     {
       "path": "content/mods/sophisticated-inventory-interactions.json",
@@ -494,7 +494,7 @@
     },
     {
       "path": "content/mods/sophisticated-storage.json",
-      "sha1": "a8a083e9bb1a931e260f56f8f69100725b1cb709"
+      "sha1": "f66d4d2a6f915965ff2267dd0178584928ae2cce"
     },
     {
       "path": "content/mods/tempad.json",
@@ -538,7 +538,7 @@
     },
     {
       "path": "overrides/config/defaultoptions/servers.dat",
-      "sha1": "87a373f1ac27ce3dd5c779b2a5c529d4b0b50eeb"
+      "sha1": "18a26cab136dc2461382e538065e78063209104e"
     },
     {
       "path": "overrides/config/modernfix-mixins.properties",
