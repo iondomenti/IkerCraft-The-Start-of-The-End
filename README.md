@@ -1,10 +1,12 @@
 # IkerCraft
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 127 mods
+**Minecraft 1.21.1 · neoforge 21.1.248**, 132 mods, 1 shader
 
 ## Contents
 
 - [Advanced Loot Info (ALI)](https://modrinth.com/project/advanced-loot-info) `1.21.1-1.12.0`
+- [Advanced Peripherals](https://modrinth.com/project/advancedperipherals) `1.21.1-0.8.0a`
+- [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [Almanac](https://modrinth.com/project/almanac) `1.5.2`
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Apotheosis](https://modrinth.com/project/apotheosis) `1.21.1-8.7.0`
@@ -27,6 +29,8 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Colorwheel](https://modrinth.com/project/colorwheel) `1.2.9+mc1.21.1`
+- [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
+- [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.8.1`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.120+1.21.1`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Copycats+ aeronautics weight](https://modrinth.com/project/copycats+-aeronautics-weight) `1.1.1`
@@ -56,6 +60,7 @@
 - [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.21.1+neoforge`
 - [EMIffect](https://modrinth.com/project/emiffect) `2.1.6+mc1.21.1`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
+- [Euphoria Patches](https://modrinth.com/project/euphoria-patches) `1.9.3-r5.8.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.3`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
@@ -96,6 +101,7 @@
 - [No Man's Delight](https://modrinth.com/project/no-mans-delight) `2.2.0`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.4.3`
+- [Oracle Index](https://modrinth.com/project/oracle-index) `1.3.1`
 - [Oritech](https://modrinth.com/project/oritech) `1.2.10`
 - [Overflowing Bars](https://modrinth.com/project/overflowing-bars) `v21.1.1-1.21.1-NeoForge`
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`

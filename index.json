@@ -5,6 +5,14 @@
       "sha1": "9fb8a60676477d8bd76020eaae5e9e8e0d6b4fb4"
     },
     {
+      "path": "content/mods/advancedperipherals.json",
+      "sha1": "04055661e8c41fa0a9e7b87ac05c813c21eb9eaa"
+    },
+    {
+      "path": "content/mods/aeronautics-propeller-blur.json",
+      "sha1": "dece9202a373f249577b47e126a261a5074a806f"
+    },
+    {
       "path": "content/mods/almanac.json",
       "sha1": "981feb8d496919d4f33e977c1b2665fb97fd502d"
     },
@@ -34,7 +42,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "8bb11caeab37217890f00130728e670337fafc52"
+      "sha1": "3a176febad436aa2ee5c8b84884763218fd5cd0c"
     },
     {
       "path": "content/mods/athena-ctm.json",
@@ -74,7 +82,7 @@
     },
     {
       "path": "content/mods/cc-tweaked.json",
-      "sha1": "e68589c7c8ce6c6b6e876160b68c9d960db6b8fc"
+      "sha1": "ac8bf2c165683eeeb1508869ec834204e13bac89"
     },
     {
       "path": "content/mods/chunky.json",
@@ -91,6 +99,10 @@
     {
       "path": "content/mods/clumps.json",
       "sha1": "f0c21a040bf3cf093708b7a1242ac6574e3ab208"
+    },
+    {
+      "path": "content/mods/colorwheel-patcher.json",
+      "sha1": "6fa4e0ab49278a4d3bcdb6bd4db5725daa61bb34"
     },
     {
       "path": "content/mods/colorwheel.json",
@@ -118,7 +130,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "2184edf7147811fcb97af3ff710d044f0e863c0d"
+      "sha1": "52dd1d1605e86e6ee5108281b27b6ca184b7fe8c"
     },
     {
       "path": "content/mods/create-avionics.json",
@@ -207,6 +219,10 @@
     {
       "path": "content/mods/entityculling.json",
       "sha1": "703bf3873148172fb255750286ac1df361ac8eb6"
+    },
+    {
+      "path": "content/mods/euphoria-patches.json",
+      "sha1": "cc05b8f833d1a69564605e8150be80373d365f64"
     },
     {
       "path": "content/mods/farmers-delight.json",
@@ -365,6 +381,10 @@
       "sha1": "b896b996d0fa394217dda1d36123749f906724fb"
     },
     {
+      "path": "content/mods/oracle-index.json",
+      "sha1": "864f5dae9beee79fa7f284e392bf6fefe6b6e2b3"
+    },
+    {
       "path": "content/mods/oritech.json",
       "sha1": "cdc2b21f268e206a699b97e4bd8ab07ef4d2b213"
     },
@@ -507,6 +527,10 @@
     {
       "path": "content/mods/zfastnoise.json",
       "sha1": "1cbf01e30757dac57509fa37c4ef62114d7cf152"
+    },
+    {
+      "path": "content/shaders/complementary-reimagined.json",
+      "sha1": "db8b3251bd83371f78d14947e4084413f74cc63f"
     },
     {
       "path": "overrides/config/defaultoptions/keybindings.txt",

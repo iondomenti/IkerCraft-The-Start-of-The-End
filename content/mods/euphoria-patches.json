@@ -1,0 +1,23 @@
+{
+  "name": "Euphoria Patches",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4H6sumDB",
+      "slug": "euphoria-patches",
+      "versionId": "9Q9EA4jQ",
+      "versionNumber": "1.9.3-r5.8.1-neoforge",
+      "filename": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4H6sumDB/versions/9Q9EA4jQ/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "sha1": "a8e8a45390d30b82f722acc669d5cb2a5d9fff79",
+      "sha512": "bdf105e505c9e6ae85d8df63ec47cdba59adac6727ef32d15aa13ed0ce3881e3d1fe076cf86c791b6af7ac90d00ed0246809d3a09b2cb13794699beb276d5ec1",
+      "fileSize": 4210708
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
