@@ -14,7 +14,6 @@ usercache.json
 usernamecache.json
 realms_persistence.json
 command_history.txt
-servers.dat
 *.dat_old
 
 # loader
