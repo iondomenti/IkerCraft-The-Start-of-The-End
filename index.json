@@ -545,6 +545,10 @@
       "sha1": "7073ea5504d301ed3a3855da9068a1bafbd7f295"
     },
     {
+      "path": "overrides/config/oritech-common.toml",
+      "sha1": "f9870c9e2e4cbb5de722c64f484ccb93883b2b8d"
+    },
+    {
       "path": "overrides/config/xaero/minimap/profiles/default.cfg",
       "sha1": "888d8960376ab08dbf0609e39e8f3b5b8a2c1e1b"
     },
