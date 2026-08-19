@@ -1,0 +1,23 @@
+{
+  "name": "Apotheosis",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rqFWfVlz",
+      "slug": "apotheosis",
+      "versionId": "wB4eASdJ",
+      "versionNumber": "1.21.1-8.7.0",
+      "filename": "Apotheosis-1.21.1-8.7.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rqFWfVlz/versions/wB4eASdJ/Apotheosis-1.21.1-8.7.0.jar",
+      "sha1": "5537a71726a0f6a4c74257f26eeeea060a7327c4",
+      "sha512": "0a842d834a1143d272b74ba2147b929441c8c2d5b40525cfe3ccca621b037e7ed4ac7596fee73f0bac1311009a1bb20354102b2b52abc8900a68ac24664d9676",
+      "fileSize": 7142458
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

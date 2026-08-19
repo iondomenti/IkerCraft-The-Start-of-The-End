@@ -1,0 +1,25 @@
+{
+  "name": "Refined Storage",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KDvYkUg3",
+      "slug": "refined-storage",
+      "versionId": "lHHiI26k",
+      "versionNumber": "2.0.9",
+      "filename": "refinedstorage-neoforge-2.0.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KDvYkUg3/versions/lHHiI26k/refinedstorage-neoforge-2.0.9.jar",
+      "sha1": "59d8e734ccb6eaab4cdf04093c55872af7a3e23a",
+      "sha512": "b98a938b8af859f1952bfb35fb6db712835a7dead88fa15258ac0f4f06b26b08ebfa49fd9a35b2c81f7a745b3cd4370ced98c242d0fe7473ba019d92da8f6c57",
+      "fileSize": 4360871
+    }
+  },
+  "dependents": [
+    "TCSDwmbf"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

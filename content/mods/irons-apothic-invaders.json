@@ -1,0 +1,23 @@
+{
+  "name": "Iron's Apothic Invaders",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1veFBGT4",
+      "slug": "irons-apothic-invaders",
+      "versionId": "JoyvwffA",
+      "versionNumber": "1.0.0",
+      "filename": "irons_apothic_invaders_1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1veFBGT4/versions/JoyvwffA/irons_apothic_invaders_1.0.0.jar",
+      "sha1": "320585bf9ef2120545fbe481655cbb09650b7e15",
+      "sha512": "6896becf09749e8916211b3fbee96f03b89066283ed26cf2930d928d21c1c37069aaca692e00a7b439c3c47aef05a7cc872ce27568cec9ed71fbc10198fd4cb0",
+      "fileSize": 124889
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

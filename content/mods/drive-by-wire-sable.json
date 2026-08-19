@@ -1,0 +1,25 @@
+{
+  "name": "Drive-By-Wire with Sable",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KsqvI0hD",
+      "slug": "drive-by-wire-sable",
+      "versionId": "zdSwg9kS",
+      "versionNumber": "0.3.0",
+      "filename": "drivebywire-0.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KsqvI0hD/versions/zdSwg9kS/drivebywire-0.3.0.jar",
+      "sha1": "b8b01f1e2d6fad22c3fa5f4a566262edbb9fda16",
+      "sha512": "09e5cac69600e20e56a9bb66d2c1fd60ff36906f47b86bc1dc27efb1624c671f61bca3c774e08d2c28b59839a914ac067f4d97b304a5ac543a7c016756a46952",
+      "fileSize": 273170
+    }
+  },
+  "dependents": [
+    "lDYpnxit"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

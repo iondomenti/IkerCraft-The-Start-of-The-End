@@ -1,0 +1,23 @@
+{
+  "name": "Chunky Border",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "s86X568j",
+      "slug": "chunkyborder",
+      "versionId": "Pj0tqKnE",
+      "versionNumber": "1.2.18",
+      "filename": "ChunkyBorder-1.2.18.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/s86X568j/versions/Pj0tqKnE/ChunkyBorder-1.2.18.jar",
+      "sha1": "b1c53d6e13100658d4dc2b2e33a650162748c4ea",
+      "sha512": "796fa11d0f481b0af9adea76ea2c494086d63adca4650571f94e610ead1af3ba5d88db1d7a177266588fd0647a34d607bf45a75ebbb9639e8d6888035723934d",
+      "fileSize": 155772
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

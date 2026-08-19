@@ -1,0 +1,23 @@
+{
+  "name": "Refined Storage - EMI Integration",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TCSDwmbf",
+      "slug": "refined-storage-emi-integration",
+      "versionId": "zpz6Pcxn",
+      "versionNumber": "1.0.0",
+      "filename": "refinedstorage-emi-integration-neoforge-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TCSDwmbf/versions/zpz6Pcxn/refinedstorage-emi-integration-neoforge-1.0.0.jar",
+      "sha1": "2d8ba2d110687b1f3bd7ea9498c5105f3858e7a4",
+      "sha512": "9e6f4e487c1a1b50e75074b3128a8d27f8dc94260db435aab0efceb41e5c13ca5d1e177d6b78153fa97253408acde0eff3dcb5427c2d28f5ab5fe2c40529e377",
+      "fileSize": 43370
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

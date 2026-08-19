@@ -1,0 +1,23 @@
+{
+  "name": "Oritech",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4sYI62kA",
+      "slug": "oritech",
+      "versionId": "yODlAz6I",
+      "versionNumber": "1.2.10",
+      "filename": "oritech-neoforge-1.21.1-1.2.10.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4sYI62kA/versions/yODlAz6I/oritech-neoforge-1.21.1-1.2.10.jar",
+      "sha1": "659da039dea86aab119039e0e724cfc354b4ede2",
+      "sha512": "6e6d7d816a4af76e52818f3ce0cbee9be96a79681778add7f3083f3fbc5a80fc95089ed4a9d687ae958d83ae939b7bf45bbf014770b983439642c315f7cf4bb2",
+      "fileSize": 10990540
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

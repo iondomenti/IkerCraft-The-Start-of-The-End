@@ -1,0 +1,23 @@
+{
+  "name": "Dark Doppelganger - Irons Spells And Spellbooks Addon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2vzHL83v",
+      "slug": "dark-doppelganger",
+      "versionId": "OBpb6JlI",
+      "versionNumber": "3.3.0-1.21.1",
+      "filename": "darkdoppelganger-3.3.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2vzHL83v/versions/OBpb6JlI/darkdoppelganger-3.3.0-1.21.1.jar",
+      "sha1": "6da7daa9119f7df28ea9880fa2954bd8c828547b",
+      "sha512": "5544fad3afe8472a8147e1a384046db95c143252900da137a3f862d08b972433582d33a8fc14de5213d2be9b79cfe1a8f71a638f39dd7f42d750ba75de38d164",
+      "fileSize": 4484238
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

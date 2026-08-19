@@ -1,0 +1,25 @@
+{
+  "name": "Corpse",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WrpuIfhw",
+      "slug": "corpse",
+      "versionId": "Zwf8nv8y",
+      "versionNumber": "neoforge-1.21.1-1.1.13",
+      "filename": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WrpuIfhw/versions/Zwf8nv8y/corpse-neoforge-1.21.1-1.1.13.jar",
+      "sha1": "a735362c4e5ef705956f1fcbac01fb9f1aae5b8e",
+      "sha512": "473aafd82008c1e041e3b4a5a177507d555c8bc9dd1f121f252f1e81bc0c69c79a91cb64be0df343babcb3d4db76efbaa7aa2adaeaae29337808a368bc290ad0",
+      "fileSize": 253694
+    }
+  },
+  "dependents": [
+    "pJGcKPh1"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

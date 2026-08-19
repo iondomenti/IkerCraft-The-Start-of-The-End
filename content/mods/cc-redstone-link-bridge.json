@@ -1,0 +1,23 @@
+{
+  "name": "CC: Redstone Link Bridge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "k3y2uvYF",
+      "slug": "cc-redstone-link-bridge",
+      "versionId": "gH50GtVz",
+      "versionNumber": "1.0.3",
+      "filename": "ccredstonelinkbridge-neoforge-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/k3y2uvYF/versions/gH50GtVz/ccredstonelinkbridge-neoforge-1.0.3.jar",
+      "sha1": "b69762fa09601ae6283e8a12bcef033efd14d2ab",
+      "sha512": "d7a1cb8d4b02a25bdbebd6893e94cfb1d0702a534f9168886dcf82bec9cc6c4190dbcd0dbc11701fe0cff9b5a38fb9331874249dc7ced4fbc2e9b4dd1645e984",
+      "fileSize": 22344
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Apothic Attributes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DGaH8Rh0",
+      "slug": "apothic-attributes",
+      "versionId": "Xtaunf84",
+      "versionNumber": "1.21.1-2.10.1",
+      "filename": "ApothicAttributes-1.21.1-2.10.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/Xtaunf84/ApothicAttributes-1.21.1-2.10.1.jar",
+      "sha1": "cdcf0c7a6398913efa76b5b4e41e4fb67033156e",
+      "sha512": "ecfa2c6b9eca3793977a29d57961a0f552cfc1995ee5d7c6e6dcca888d4c427c4d940c484ebd13c6d2db7c7341d4da0d212e6897ec1f26f0e5c093ce508d4858",
+      "fileSize": 323265
+    }
+  },
+  "dependents": [
+    "pL8MtgqY",
+    "rqFWfVlz"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

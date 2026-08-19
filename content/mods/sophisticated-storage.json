@@ -1,0 +1,25 @@
+{
+  "name": "Sophisticated Storage",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hMlaZH8f",
+      "slug": "sophisticated-storage",
+      "versionId": "A517Hphy",
+      "versionNumber": "1.21.1-1.5.89.2109",
+      "filename": "sophisticatedstorage-1.21.1-1.5.89.2109.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hMlaZH8f/versions/A517Hphy/sophisticatedstorage-1.21.1-1.5.89.2109.jar",
+      "sha1": "570c1660c783c490acd94b47d8f814ca77cf24a7",
+      "sha512": "f7a3312c9b7ee65db276d3b244270696d7043409eb1fb592adeda36efc0370e4c76038270485f009c58480f5abe6a7c74fc72116d1f464edaa245697d2921df6",
+      "fileSize": 1869212
+    }
+  },
+  "dependents": [
+    "MJ0hdevs"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

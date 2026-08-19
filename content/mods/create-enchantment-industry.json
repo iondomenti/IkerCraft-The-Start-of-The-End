@@ -1,0 +1,23 @@
+{
+  "name": "Create: Enchantment Industry",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JWGBpFUP",
+      "slug": "create-enchantment-industry",
+      "versionId": "LOammszO",
+      "versionNumber": "2.5.2",
+      "filename": "create-enchantment-industry-2.5.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JWGBpFUP/versions/LOammszO/create-enchantment-industry-2.5.2.jar",
+      "sha1": "2ff3e1584512c205f17db923a22082c317a12f32",
+      "sha512": "e5c049bf06fe231d44f37a2427a95a327d6327b1d2547d3f086a22342a03a3c618c9df9c26d3fd04be5b029b20764eee33425ab7bd523e8b96a65c7d76930705",
+      "fileSize": 1602815
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
