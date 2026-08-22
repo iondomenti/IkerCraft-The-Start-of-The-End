@@ -118,7 +118,7 @@
     },
     {
       "path": "content/mods/copycats.json",
-      "sha1": "50886f03fd5b5c53de0aed6297a11314bd5c6733"
+      "sha1": "a716d9b950b0f4060b28f459e25dd521c42a142b"
     },
     {
       "path": "content/mods/corpse-x-curios-api-compat.json",
@@ -146,7 +146,7 @@
     },
     {
       "path": "content/mods/create-enchantment-industry.json",
-      "sha1": "be117e55c4cdd6c1627378390d11bf03f91210cf"
+      "sha1": "cc1829b3ddac47f0957ec9100c45c6a9370fd4d2"
     },
     {
       "path": "content/mods/create-jetpack.json",
@@ -478,11 +478,11 @@
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
-      "sha1": "f32d9a9dec9cdfe38af5e424bc4b337250348bf7"
+      "sha1": "a73227a5f958eeb540361e2bcbcdfc67ee09dd44"
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "0b48f39362e17571e63578e2bad4acd1d327c966"
+      "sha1": "ea2349229097618e6a66f2a97e46f5e1ea98e417"
     },
     {
       "path": "content/mods/sophisticated-inventory-interactions.json",
@@ -494,7 +494,7 @@
     },
     {
       "path": "content/mods/sophisticated-storage.json",
-      "sha1": "f66d4d2a6f915965ff2267dd0178584928ae2cce"
+      "sha1": "012b47b562960ee19ae1336ca15cd07551643986"
     },
     {
       "path": "content/mods/tempad.json",
@@ -518,7 +518,7 @@
     },
     {
       "path": "content/mods/xaeros-world-map.json",
-      "sha1": "b858844a8c6841b8674915bab29ff0c1fa42818f"
+      "sha1": "cf739823038b0984aeb50781f78fbc7b9e7277f6"
     },
     {
       "path": "content/mods/yeetus-experimentus.json",

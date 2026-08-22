@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "NcUtCpym",
       "slug": "xaeros-world-map",
-      "versionId": "55gtOc9Y",
-      "versionNumber": "neoforge-1.21.1-1.44.2",
-      "filename": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/55gtOc9Y/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
-      "sha1": "beea95c1a2ca78e1a6ca0a0ddc7770672101fb60",
-      "sha512": "4a6b128ca0a07290ad62bab03e98c2ed5c7b37014bb3a3e8e74e7422429ca2cad225c045f9f8f9681662dfda29809dd9cdb2701ba4774a3a57e2fc84eb497fa8",
-      "fileSize": 1418918
+      "versionId": "fOv9QzLO",
+      "versionNumber": "neoforge-1.21.1-1.45.0",
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/fOv9QzLO/xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+      "sha1": "f243d6877ab32333f27bf27ad1e9eb600361e6aa",
+      "sha512": "57a3175d91c237682b65e1b9df78be23ad8cd03f1c8ca074fc61e1672d280df8fa7335c88a173b46b1e17834af621e5121b80ac0d12cd7c9aba3e3ceb367d1eb",
+      "fileSize": 1422531
     }
   },
   "dependents": [],
